@@ -1,0 +1,6 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "ebdd0499551765e6a7aba220cc8ae4e0cdb6be69" },
+  "neoconf.nvim": { "branch": "main", "commit": "9625a1710a9be427a662f9ba0a383164588a41a8" },
+  "neodev.nvim": { "branch": "main", "commit": "13872b2e3bfe4e7c76a0fd6010bbb466f3a84f91" },
+  "which-key.nvim": { "branch": "main", "commit": "e271c28118998c93a14d189af3395812a1aa646c" }
+}
