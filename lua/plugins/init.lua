@@ -21,5 +21,23 @@ return {
         opts = {
             variant = 'moon'
         }
+    },
+    {
+        'folke/tokyonight.nvim',
+        lazy = false,
+        priority = 1000,
+        opts = {
+            variant = 'day'
+        },
+    },
+    {
+        'EdenEast/nightfox.nvim',
+        lazy = false,
+        priority = 1000,
+    },
+    {
+        'sainnhe/everforest',
+        lazy = false,
+        priority = 1000,
     }
 }
